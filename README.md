@@ -1,6 +1,6 @@
 # Application of MATLAB 
 
-Welcome to the **Application of MATLAB** repository! 🎉 This repository is dedicated to enhancing your MATLAB skills through 100 diverse projects spanning various domains such as cybersecurity 🔒, web development 🌐, data science 📊, and more.
+Welcome to the **Application of MATLAB** repository! 🎉 This repository is dedicated to enhancing your MATLAB skills through 100 diverse projects spanning various domains such as AI and Machine Learning 🤖, Scientific Computing 🔬💻, data science 📊, and more.
 
 ## Table of Contents
 
