@@ -6,8 +6,8 @@ Welcome to the **Application of MATLAB** repository! 🎉 This repository is ded
 
 - [Introduction](#introduction)
 - [Projects](#projects)
-  - [Cybersecurity](#cybersecurity-🔒)
-  - [Web Development](#web-development-🌐)
+  - [AI and Machine Learning](#ai-and-machine-learning-🔒)
+  - [Scientific Computing](#scientific-Computing)
   - [Data Science](#data-science-📊)
   - [More Applications](#more-applications)
 - [Getting Started](#getting-started)
