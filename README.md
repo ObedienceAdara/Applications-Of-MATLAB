@@ -6,8 +6,8 @@ Welcome to the **Application of MATLAB** repository! 🎉 This repository is ded
 
 - [Introduction](#introduction)
 - [Projects](#projects)
-  - [AI and Machine Learning](#ai-and-machine-learning-🔒)
-  - [Scientific Computing](#scientific-Computing)
+  - [AI and Machine Learning](#ai-and-machine-learning-🤖)
+  - [Scientific Computing](#scientific-Computing🔬💻)
   - [Data Science](#data-science-📊)
   - [More Applications](#more-applications)
 - [Getting Started](#getting-started)
@@ -19,7 +19,7 @@ Welcome to the **Application of MATLAB** repository! 🎉 This repository is ded
 
 MATLAB is a versatile and powerful programming language widely used in various fields. This repository aims to provide hands-on experience with MATLAB through 100 different projects across multiple domains. Whether you're a beginner or an experienced developer, you'll find valuable projects to improve your skills and explore new areas. 💡
 
-## Projects
+<!-- ## Projects
 
 ### Cybersecurity 🔒
 
@@ -44,7 +44,7 @@ MATLAB is a versatile and powerful programming language widely used in various f
 1. [Automation](projects/automation) 🤖
 2. [Game Development](projects/game_development) 🎮
 3. [Desktop Applications](projects/desktop_applications) 💻
-4. ...
+4. ... -->
 
 ## Getting Started
 
