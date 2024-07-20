@@ -1,1 +1,1 @@
-# Applications-Of-C-
+# Applications-Of-MATLAB
